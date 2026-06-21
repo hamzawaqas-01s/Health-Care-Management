@@ -1,0 +1,7 @@
+101|Amir Sohail|amir@email.com|0312-1234352|O-|20|123456|
+102|Sulemun Khan|sulemunn@gmail.com|0311-4321856|O+|19|snk123|
+103|SNK|sulemun@gmail.com|3007851980|B+|25|snk123|
+106|sulemun|snk@gmail.com|03006357450|A+|50|password|
+107|Hamza12|mujadad@gmail.com|03235647752|AB-|78|123456|
+110|Mujadad|dummy@gmail.com|12312312312|AB+|15|000000|
+114|Kamran Khan|kamran@gmail.com|03110700201|A+|26|kamran@123|
